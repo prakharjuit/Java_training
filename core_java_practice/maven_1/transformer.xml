@@ -1,0 +1,24 @@
+<suite name="My Suite">
+
+
+
+
+<listeners>
+
+<listener class-name="Test_ng_4.MyTransformer">
+
+
+</listener>
+</listeners>
+<test name="Tests">
+
+<classes>
+<class name="Test_ng_4.TestTransformer"></class>
+
+</classes>
+</test>
+
+
+
+
+</suite>

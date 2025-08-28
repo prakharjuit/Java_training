@@ -1,0 +1,13 @@
+<suite name="Mysuite">
+<listeners>
+<listener class-name="Test_ng_3.Listeneresss" />
+
+</listeners>
+<test name="My Tests">
+
+<classes>
+<class name="Test_ng_3.SampleTest"/>
+</classes>
+</test>
+
+</suite>

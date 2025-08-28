@@ -1,0 +1,13 @@
+<suite name="MySuite" >
+<listeners>
+
+<listener class-name="Test_ng_4.MyAlterSuite">
+</listener>
+
+</listeners>
+
+
+
+
+
+</suite>

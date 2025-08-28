@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="MyTestSuite">
+    <test name="AllTests">
+        <classes>
+            <class name="Test_ng_1.Amazon_test"/>
+            <class name="Test_ng_1.Instagram"/>
+        </classes>
+    </test>
+</suite>

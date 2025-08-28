@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite 1">
+ 
+ <test name="Tests">
+  <packages>
+    <package name="Test_ng_3">
+      <exclude name="Test_ng_3.Ignore.*">
+      </exclude>
+    </package>
+  </packages>
+   
+  <classes>
+    <class name="Test_ng_3.Dependencies"/>
+  </classes>
+</test>
+ 
+</suite>
